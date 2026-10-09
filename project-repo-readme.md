@@ -4,12 +4,13 @@
 
 [1–5 paragraphs: Provide a concise description of the project, including the main focus, objectives, and expected outcomes. Mention the organization, department, and any relevant background information about the project or research area.]
 
+
 ---
 
-**Authors:** [Full Name of the Intern, e.g., John DOE]
-**Organization:** EuroMov Digital Health in Motion, Univ Montpellier, IMT Mines Alès 
-**Project Period:** [e.g., 01 January 2024 – 30 June 2024]
-**Supervisor:** [full name of Supervisor, e.g., Dr. Jane SMITH]
+**Authors:** [BALBINE Valentin]
+**Organization:** Not definitly for this moment : BOWLING EVOLUTION - Odysseum 
+**Project Period:** [16 February - ?]
+**Supervisor:** [CLET Eric]
 **Supervising team:** [full name of associated Supervisors, e.g., Pr. Karim DOE; Dr. Alice SMITH]
 **Project repository:** [links to the separate task/code repository or repositories]
 
