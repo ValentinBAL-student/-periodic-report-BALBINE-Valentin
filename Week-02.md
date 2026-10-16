@@ -15,3 +15,7 @@ mar
 
 Even if the discussion is going well nothing it's done so i prepare an alternative solutions in case somenthing won't work.
 
+I will keep you to pdateall the following discussion.
+
+I'm also starting to have question about my situation,if i have the possibility to effectively work with the football team. How i can manage to keep woking at my job in the bowling and to realise 35h in the football team ?
+ 
