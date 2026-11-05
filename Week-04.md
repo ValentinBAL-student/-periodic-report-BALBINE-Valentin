@@ -1,4 +1,5 @@
-For this 3rd week of preparation of my internship, i strat the documentation of my project.
+<<<<<<< HEAD
+For this 4th week of preparation of my internship, i strat the documentation of my project.
 
 From the mail i got from the Imply industry to set my area and the possibility to access to their system (EBS mainly), i'm currently defining my scientific question from possibilities of my internship and by reading sciences research on 10-pin bowling.
 
